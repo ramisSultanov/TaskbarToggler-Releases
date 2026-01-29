@@ -1,6 +1,8 @@
 # Taskbar Toggler. Releases
 This repo will contain any public releases of Taskbar Toggler. This Windows 10/11 app allows to switch between Shown and Hidden Taskbar. It adds an option to the Expanded Context Menu (right-click + Show more options) that switches the Taskbar Behavior.
 
+YouTube showcase: https://youtu.be/b4HsW2EmmvI
+
 # Tired of going through settings to hide the task bar? Me too
 * It is a lightweight, seamless, fully local application. None of your information/setting is stored online.
 * The app runs only when clicked, executes the toggle, and immediately closes. It does not run in the background.
