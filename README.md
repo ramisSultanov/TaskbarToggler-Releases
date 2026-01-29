@@ -1,7 +1,7 @@
 # Taskbar Toggler. Releases
 This repo will contain any public releases of Taskbar Toggler. This Windows 10/11 app allows to switch between Shown and Hidden Taskbar. It adds an option to the Expanded Context Menu (right-click + Show more options) that switches the Taskbar Behavior.
 
-## Tired of going through settings to hide the task bar? Me too
+# Tired of going through settings to hide the task bar? Me too
 * It is a lightweight, seamless, fully local application. None of your information/setting is stored online.
 * The app runs only when clicked, executes the toggle, and immediately closes. It does not run in the background.
 * Works on all your monitors 
@@ -26,3 +26,15 @@ To appear in the right-click menu, the installer writes to:
 `HKEY_CURRENT_USER\Software\Classes\DesktopBackground\shell\TaskbarToggler`
 * Any folder:
 `HKEY_CURRENT_USER\Software\Classes\Directory\Background\shell\TaskbarToggler`
+
+### Installation file
+* Created using Inno Setup Compiler and .NET 10
+* Uninstall file included. Also can be uninstalled through Start Menu (Windows Application List)
+
+### Antivirus
+*  I am working on publishing this on Microsoft Store. 
+*  Since I am an independent developer, you may encounter a Smart Screen warning when downloading the executable installation wizard from GitHub. You can ignore the message by clicking 'More Info' -> 'Run Anyway' to proceed.
+* I am not asking you to turn off your Antivirus software
+
+## Bugs
+* Please report any Issues to the Issues tab
